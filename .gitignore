@@ -1,0 +1,7 @@
+data
+__pycache__
+lightning_logs
+weights
+.ipynb_checkpoints
+*.log
+setvae
